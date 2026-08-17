@@ -2,6 +2,9 @@
 
 * **Overview:** A slow cryptography and security framework ported directly to **Swift** with **Apple Metal GPU compute shader support**.
 
+* PLEASE NOT AI PORTED THIS
+* ALSO HASH VALUES ARE SLIGHTLY DIFFERENT USE TO SWIFT TRUNCATION SO NOTE THAT
+
 ---
 
 ### Project Structure & Organization
